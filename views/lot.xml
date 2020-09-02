@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<odoo>
+
+
+
+    <menuitem id="lot" name="lot" sequence="2" web_icon="vk_hospital.static/description/menu_icon.png"/>
+
+</odoo>
